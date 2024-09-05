@@ -12,7 +12,7 @@ body {
     height: 100vh; /* Preenche a altura total da viewport */
     margin: 0;
     padding: 0;
-    background-image: url(img/Wallpaper.jpg);
+    background-image: url(Wallpaper.jpg);
     background-repeat: no-repeat;
     background-position-y: -315px;
     background-size: cover;
